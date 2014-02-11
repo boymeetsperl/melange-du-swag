@@ -1,6 +1,6 @@
 /* Some awesome Javascript written by Ian McGaunn */
 
-/* call the addRectangle function once the document has loaded */
+// attach some fancy listeners to the hidden input form.
 $(document).ready(function() {
     fileinput = $("input[type=file]");
 
